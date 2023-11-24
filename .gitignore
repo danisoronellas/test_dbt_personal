@@ -386,4 +386,4 @@ pyrightconfig.json
 target/
 dbt_packages/
 logs/
-
+.db/data/*
